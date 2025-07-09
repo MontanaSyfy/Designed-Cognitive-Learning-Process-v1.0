@@ -1,0 +1,1 @@
+# Designed-Cognitive-Learning-Process-v1.0
