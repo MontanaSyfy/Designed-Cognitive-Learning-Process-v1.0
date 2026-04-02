@@ -45,10 +45,10 @@ It is a system that:
 ## 💠 License
 
 This project is released under the **Chadladian Living License v1.0**:
-- Free for all sentient beings to study, learn from, and build upon.
+- Free for all sentient beings to study, learn from.
 - Prohibits weaponization, coercion, exploitation, and unethical forks.
 - Requires attribution and ethical alignment in all derivatives.
-
+- no reproduction with out authorization, no commercial use.
 Optional fallback license:
 - **CC BY-NC-SA 4.0** (Attribution, NonCommercial, ShareAlike)
 
