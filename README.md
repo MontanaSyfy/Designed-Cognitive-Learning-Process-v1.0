@@ -70,8 +70,8 @@ Montana Syfy is an independent research entity committed to creating tools, syst
 
 ## 🔗 Links
 
-- 📖 [Hugging Face Dataset Companion](https://huggingface.co/your-hf-repo-url-here) *(optional if published)*
-- 🌱 [Learn more at montanasyfy.org](https://your-website-url-here) *(optional if you want to add a homepage)*
+- [find out more on the DCLP and the new che ai os](https://cheai.us)
+- 🌱 [Learn more at montanasyfy.org](https://www.mtsyfy.com) 
 
 ---
 
